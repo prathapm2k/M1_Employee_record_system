@@ -6,4 +6,4 @@
 * Draw.io
 
 # STRUCTURAL DIAGRAM
-* There is no classes, database without that structural diagram is not possible
+* Class diagram is used for this project development.
