@@ -1,4 +1,4 @@
-#### Employee Record System
+### Employee Record System
 ## Introduction
    The employee record system is a file based system which have the records of all the employees
 which helps the management to access the employees record very easily.In this project,have four tabs which are adding the employees with their personal datas and modify the data and delete the data and also able to view the total lists of employees records. 
@@ -7,12 +7,12 @@ which helps the management to access the employees record very easily.In this pr
     
     
 ## Research
- # Advantages
+# Advantages
    * Easy and faster access
    * It can be used anywhere
    * Future Proof
   
- # Disadvantages
+# Disadvantages
    * since file structure is used for this project so limited cases are stored in this type of structure
 
 ## Cost and Features
