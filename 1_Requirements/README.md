@@ -1,13 +1,13 @@
-##Research
+## Research
 
- ###Advantages
+ ### Advantages
   * Easy and faster access
   * It can be used anywhere
   * Future Proof
- ###Disadvantages
+ ### Disadvantages
   * since file structure is used for this project so limited cases are stored in this type of structure
     
-##Cost and Features
+## Cost and Features
    * EasierAccess
    * Cost free
  
