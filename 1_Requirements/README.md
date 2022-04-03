@@ -29,7 +29,7 @@ Problem Statement ---> Research ---> Plan --->Design --->Implement--->Testing --
 ##Who
    Anyone can use this by accessing its main menu and need to choose there required field of choice and need to enter the value to get there desired output.
 ## What
-   It's an covid tracking utility to display the covid cases, which will help user to identify the covid cases and vaccinated cases.
+   It's an project based on employee record system that manages the employees data in file structure.
 ## When
    It is available to user 24X7, 365 days without any issues and works infinite times.
 ## Where 
@@ -39,14 +39,12 @@ Problem Statement ---> Research ---> Plan --->Design --->Implement--->Testing --
 # SWOT Analysis
 ## Strengths
    We can access it from anywhere.
-   It provides the covid cases details easily.
    It is available for 24/7.
    easy and faster access.
 ## Weaknesses 
    Limited cases are stored in the structure.
    Needs graphical user interface.
 ## Opportunities
-   It can provides the covid cases details for world wide and also for vaccinated details. (example: Estimating Covid cases from one state to another states etc.)
-   User friendly.
+   It can provides the platform for storing the employees data in a single step which helps for future purposes.
 ## Threats
    limited access.
