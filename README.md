@@ -4,3 +4,4 @@
 
 
 https://api.codiga.io/project/34792/score/svg
+https://api.codiga.io/project/34792/status/svg
