@@ -13,6 +13,10 @@ Codiga - Grade
 
 ![quality](https://api.codiga.io/project/34792/status/svg)
 
+Analysis
+
 [![Analysis](https://github.com/prathapm2k/M1_Employee_record_system/actions/workflows/analysis.yml/badge.svg)](https://github.com/prathapm2k/M1_Employee_record_system/actions/workflows/analysis.yml)
+
+Cppcheck Analysis
 
 [![Cppcheck Analysis](https://github.com/prathapm2k/M1_Employee_record_system/actions/workflows/coocheck_analysis.yml/badge.svg)](https://github.com/prathapm2k/M1_Employee_record_system/actions/workflows/coocheck_analysis.yml)
