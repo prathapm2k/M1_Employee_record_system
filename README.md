@@ -3,5 +3,5 @@
 * It is very useful for keeping the data of employees for reference and useful purposes.
 
 
-https://api.codiga.io/project/34792/score/svg
+![quality](https://api.codiga.io/project/34792/score/svg)
 https://api.codiga.io/project/34792/status/svg
