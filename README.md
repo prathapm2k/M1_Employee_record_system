@@ -20,3 +20,7 @@ Analysis
 Cppcheck Analysis
 
 [![Cppcheck Analysis](https://github.com/prathapm2k/M1_Employee_record_system/actions/workflows/coocheck_analysis.yml/badge.svg)](https://github.com/prathapm2k/M1_Employee_record_system/actions/workflows/coocheck_analysis.yml)
+
+Valgrind
+
+[![Valgrind](https://github.com/prathapm2k/M1_Employee_record_system/actions/workflows/valgrind_check.yml/badge.svg)](https://github.com/prathapm2k/M1_Employee_record_system/actions/workflows/valgrind_check.yml)
