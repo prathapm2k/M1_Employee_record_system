@@ -12,3 +12,5 @@ Codiga - check
 Codiga - Grade
 
 ![quality](https://api.codiga.io/project/34792/status/svg)
+
+[![Analysis](https://github.com/prathapm2k/M1_Employee_record_system/actions/workflows/analysis.yml/badge.svg)](https://github.com/prathapm2k/M1_Employee_record_system/actions/workflows/analysis.yml)
